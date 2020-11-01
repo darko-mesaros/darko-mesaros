@@ -1,4 +1,11 @@
-### Hi there 👋
+### Well hello there! 👋
+
+<p align="center" valign="center"><a href="https://rup12.net">Website</a> | <a
+href="https://twitter.com/darkosubotica">Twitter</a> | <a
+href="https://youtube.com/ruptwelve">YouTube</a> | <a
+href="https://twitch.tv/ruptwelve">Twitch</a> | <a
+href="https://www.linkedin.com/in/darko-mesaroš-02b66622/">LinkedIn</a></p>
+
 
 <!--
 **darko-mesaros/darko-mesaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
