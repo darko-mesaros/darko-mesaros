@@ -25,7 +25,7 @@ Architecture, to now - a Developer Advocate 🥳.
   Bernard](https://github.com/cobusbernard).
 - 🎤 Presenting on a bunch of Virtual events all around. Some of the decks can
   be found [here](https://speakerdeck.com/darkomesaros)
-- 🎙Running a weekly podcast in Serbo-Croatian language on the topic of the
+- 🎙Running a weekly [podcast](https://anchor.fm/awsovanje) in Serbo-Croatian language on the topic of the
   Cloud and AWS.
 - 📔 Attempting to start blogging.
 - 🖥 Spicing up my Linux work evironment
